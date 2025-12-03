@@ -19,7 +19,7 @@ Elle permet de naviguer dans les équipements de Dofus, consulter leurs effets, 
 
 ### 1. Cloner le dépôt
 
-git clone https://github.com/Titous84/Dofus-API-Technologie-Emergente.git
+git clone https://github.com/Titous84/Techno-Emergente---Projet-session
 cd Dofus-API-Technologie-Emergente
 
 2. Installer les dépendances
