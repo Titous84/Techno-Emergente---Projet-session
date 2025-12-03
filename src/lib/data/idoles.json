@@ -1,0 +1,2031 @@
+[
+	{
+		"nom": "Aroumb",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/69-aroumb",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178102.png",
+		"Type": "Idoles",
+		"description": "Un ennemi soigné peut être achevé plusieurs fois.",
+		"bonus": {
+			"Bonus d'expérience": 25,
+			"Bonus de butin": 25
+		},
+		"sorts": "À chaque fin de tour d'un allié, les ennemis en ligne avec l'allié qui termine son tour sont soignés.",
+		"recette": {
+			"Substrat de Fascine": 2,
+			"Poils de Koalak Forestier": 10,
+			"Galet brasillant": 1,
+			"Boulon Wabbit": 10,
+			"Essence de Wa Wobot": 2,
+			"Masque Brisé d'Araknotron": 10
+		},
+		"niveau": 80
+	},
+	{
+		"nom": "Bihilète",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/19-bihilete",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178058.png",
+		"Type": "Idoles",
+		"description": "Celui qui cherche à dominer ses adversaires, meurt avec une laisse autour du cou.",
+		"bonus": {
+			"Bonus d'expérience": 35,
+			"Bonus de butin": 35
+		},
+		"sorts": "Les dommages des adversaires augmentent de 100%.",
+		"recette": {
+			"Ebonite": 4,
+			"Peau de serpentin": 10,
+			"Sceau Royal Contrefait": 10,
+			"Graine de la Discorde": 10,
+			"Essence de Boostache": 2
+		},
+		"niveau": 44
+	},
+	{
+		"nom": "Bihilète magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/21-bihilete-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178060.png",
+		"Type": "Idoles",
+		"description": "Celui qui cherche à dominer ses adversaires, meurt avec une laisse autour du cou.",
+		"bonus": {
+			"Bonus d'expérience": 65,
+			"Bonus de butin": 65
+		},
+		"sorts": "Les dommages des adversaires augmentent de 400%.",
+		"recette": {
+			"Peau de Don Dorgan": 1,
+			"Galet brasillant": 1,
+			"Substrat de Bosquet": 2,
+			"Essence de Maître Corbac": 2,
+			"Broderie de Malléfisk": 10,
+			"Sablier miniature": 1
+		},
+		"niveau": 114
+	},
+	{
+		"nom": "Bihilète majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/20-bihilete-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178059.png",
+		"Type": "Idoles",
+		"description": "Celui qui cherche à dominer ses adversaires, meurt avec une laisse autour du cou.",
+		"bonus": {
+			"Bonus d'expérience": 50,
+			"Bonus de butin": 50
+		},
+		"sorts": "Les dommages des adversaires augmentent de 200%.",
+		"recette": {
+			"Magnésite": 4,
+			"Chaîne de l'Ouginak": 10,
+			"Oreille de Foufayteur": 10,
+			"Osselet de Black Wabbit Squelette": 1,
+			"Essence de Nelween": 2
+		},
+		"niveau": 74
+	},
+	{
+		"nom": "Bihilète mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/18-bihilete-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178057.png",
+		"Type": "Idoles",
+		"description": "Celui qui cherche à dominer ses adversaires, meurt avec une laisse autour du cou.",
+		"bonus": {
+			"Bonus d'expérience": 20,
+			"Bonus de butin": 20
+		},
+		"sorts": "Les dommages des adversaires augmentent de 50%.",
+		"recette": {
+			"Bec du Tofu": 10,
+			"Pince du Crabe": 10,
+			"Ferrite": 4,
+			"Essence de Kardorim": 2
+		},
+		"niveau": 4
+	},
+	{
+		"nom": "Binar",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/52-binar",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178096.png",
+		"Type": "Idoles",
+		"description": "01000011 01100101 01110100 01110100 01100101 00100000 01101001 01100100 01101111 01101100 01100101 00100000 01100011 01100001 01110101 01110011 01100101 01110010 01100001 00100000 01110110 01101111 01110100 01110010 01100101 00100000 01110000 01100101 01110010 01110100 01100101",
+		"bonus": {
+			"Bonus d'expérience": 25,
+			"Bonus de butin": 25
+		},
+		"sorts": "Chaque personnage situé sur une case paire perd 30% de ses PV lorsqu'un allié termine son tour sur une case impaire.",
+		"recette": {
+			"Écorce de Champaknyde": 3,
+			"Trompe de la Tromperelle": 3,
+			"Galet brasillant": 3,
+			"Boulon de Cybwork": 10,
+			"Pépite": 3000,
+			"Tourmaline": 15,
+			"Essence de XLII": 2,
+			"Substrat de Forêt primaire": 2
+		},
+		"niveau": 170
+	},
+	{
+		"nom": "Boble",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/39-boble",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178079.png",
+		"Type": "Idoles",
+		"description": "Qui veut gouter le Dofus doit briser la coquille.",
+		"bonus": {
+			"Bonus d'expérience": 25,
+			"Bonus de butin": 25
+		},
+		"sorts": "Lorsqu'un adversaire meurt, ses alliés gagnent 200% de dommages pendant 2 tours.",
+		"recette": {
+			"Bakélélite": 4,
+			"Galet brasillant": 1,
+			"Dent de Larve Saphir": 10,
+			"Patte de Black Wabbit": 10,
+			"Essence de Wa Wobot": 2,
+			"Dent de Gargantûl": 1
+		},
+		"niveau": 88
+	},
+	{
+		"nom": "Boble magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/41-boble-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178078.png",
+		"Type": "Idoles",
+		"description": "Qui veut gouter le Dofus doit briser la coquille.",
+		"bonus": {
+			"Bonus d'expérience": 55,
+			"Bonus de butin": 55
+		},
+		"sorts": "Lorsqu'un adversaire meurt, ses alliés gagnent 800% de dommages pendant 2 tours.",
+		"recette": {
+			"Bave du Kaskargo": 10,
+			"Coquille de Fantimonier": 10,
+			"Galet brasillant": 3,
+			"Pépite": 3000,
+			"Essence de Kimbo": 2,
+			"Peau de Métaphorreur": 10,
+			"Tourmaline": 15,
+			"Substrat de Forêt primaire": 2
+		},
+		"niveau": 168
+	},
+	{
+		"nom": "Boble majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/40-boble-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178080.png",
+		"Type": "Idoles",
+		"description": "Qui veut gouter le Dofus doit briser la coquille.",
+		"bonus": {
+			"Bonus d'expérience": 40,
+			"Bonus de butin": 40
+		},
+		"sorts": "Lorsqu'un adversaire meurt, ses alliés gagnent 400% de dommages pendant 2 tours.",
+		"recette": {
+			"Kriptonite": 4,
+			"Étamine de Floribonde": 10,
+			"Amygdales du Bitouf Sombre": 10,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Minotoror": 2,
+			"Langue de Truchmuche": 1
+		},
+		"niveau": 128
+	},
+	{
+		"nom": "Boble mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/38-boble-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178077.png",
+		"Type": "Idoles",
+		"description": "Qui veut gouter le Dofus doit briser la coquille.",
+		"bonus": {
+			"Bonus d'expérience": 10,
+			"Bonus de butin": 10
+		},
+		"sorts": "Lorsqu'un adversaire meurt, ses alliés gagnent 100% de dommages pendant 2 tours.",
+		"recette": {
+			"Sourcils de Tronknyde": 1,
+			"Arakne Majeure Morte": 1,
+			"Substrat de Bocage": 2,
+			"Essence de Batofu": 2,
+			"Lamelle de Champa Bleu": 10
+		},
+		"niveau": 48
+	},
+	{
+		"nom": "Butor",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/11-butor",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178054.png",
+		"Type": "Idoles",
+		"description": "Il y a plus d'honneur à montrer son visage que ses talons. Surtout si vous êtes montés sur un étalon.",
+		"bonus": {
+			"Bonus d'expérience": 20,
+			"Bonus de butin": 20
+		},
+		"sorts": "Les dommages au contact des adversaires augmentent de 100%.",
+		"recette": {
+			"Souris verte": 10,
+			"Substrat de Futaie": 2,
+			"Poupée Vaudou Jav": 10,
+			"Essence de Kanniboul Ebil": 2,
+			"Sueur Froide de Fantôme": 10
+		},
+		"niveau": 65
+	},
+	{
+		"nom": "Butor magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/13-butor-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178056.png",
+		"Type": "Idoles",
+		"description": "Il y a plus d'honneur à montrer son visage que ses talons. Surtout si vous êtes montés sur un étalon.",
+		"bonus": {
+			"Bonus d'expérience": 40,
+			"Bonus de butin": 40
+		},
+		"sorts": "Les dommages au contact des adversaires augmentent de 400%.",
+		"recette": {
+			"Écorce de Chiendent": 1,
+			"Duvet de Mamansot": 10,
+			"Substrat de Forêt": 2,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Mansot Royal": 2,
+			"Aile de Gruche": 1
+		},
+		"niveau": 145
+	},
+	{
+		"nom": "Butor majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/12-butor-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178055.png",
+		"Type": "Idoles",
+		"description": "Il y a plus d'honneur à montrer son visage que ses talons. Surtout si vous êtes montés sur un étalon.",
+		"bonus": {
+			"Bonus d'expérience": 30,
+			"Bonus de butin": 30
+		},
+		"sorts": "Les dommages au contact des adversaires augmentent de 200%.",
+		"recette": {
+			"Kouartz": 4,
+			"Peau de Don Dorgan": 1,
+			"Moustache du Mufafah": 10,
+			"Galet brasillant": 1,
+			"Oreille de Rhinoféroce": 10,
+			"Essence de Dramak": 2
+		},
+		"niveau": 105
+	},
+	{
+		"nom": "Butor mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/10-butor-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178053.png",
+		"Type": "Idoles",
+		"description": "Il y a plus d'honneur à montrer son visage que ses talons. Surtout si vous êtes montés sur un étalon.",
+		"bonus": {
+			"Bonus d'expérience": 10,
+			"Bonus de butin": 10
+		},
+		"sorts": "Les dommages au contact des adversaires augmentent de 50%.",
+		"recette": {
+			"Os Invisible du Chafer Invisible": 10,
+			"Aluminite": 4,
+			"Tissu Invisible": 10,
+			"Essence de Tournesol Affamé": 2
+		},
+		"niveau": 25
+	},
+	{
+		"nom": "Cafra",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/66-cafra",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178070.png",
+		"Type": "Idoles",
+		"description": "Le plus proche a toujours tort. Et le tort tue.",
+		"bonus": {
+			"Bonus d'expérience": 25,
+			"Bonus de butin": 25
+		},
+		"sorts": "À chaque début de tour d'un ennemi, le personnage le plus proche de l'ennemi qui commence son tour subit 100% de dommages supplémentaires pendant 1 tour. Cumulable.",
+		"recette": {
+			"Kouartz": 4,
+			"Bec du Kido": 1,
+			"Galet brasillant": 1,
+			"Short de Capoei Rat": 10,
+			"Essence de Koulosse": 2,
+			"Langue de Mimikado": 10
+		},
+		"niveau": 108
+	},
+	{
+		"nom": "Cafra magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/68-cafra-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178072.png",
+		"Type": "Idoles",
+		"description": "Le plus proche a toujours tort. Et le tort tue.",
+		"bonus": {
+			"Bonus d'expérience": 45,
+			"Bonus de butin": 45
+		},
+		"sorts": "À chaque début de tour d'un ennemi, le personnage le plus proche de l'ennemi qui commence son tour subit 400% de dommages supplémentaires pendant 1 tour. Cumulable.",
+		"recette": {
+			"Pyrute": 4,
+			"Œil de Sapeur": 10,
+			"Queue de Yomi Givrefoux": 1,
+			"Manubrium de Wolvero": 1,
+			"Galet brasillant": 3,
+			"Pépite": 3000,
+			"Tourmaline": 15,
+			"Essence de Toxoliath": 2
+		},
+		"niveau": 188
+	},
+	{
+		"nom": "Cafra majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/67-cafra-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178071.png",
+		"Type": "Idoles",
+		"description": "Le plus proche a toujours tort. Et le tort tue.",
+		"bonus": {
+			"Bonus d'expérience": 35,
+			"Bonus de butin": 35
+		},
+		"sorts": "À chaque début de tour d'un ennemi, le personnage le plus proche de l'ennemi qui commence son tour subit 200% de dommages supplémentaires pendant 1 tour. Cumulable.",
+		"recette": {
+			"Laine du Trooll Furieux": 1,
+			"Sépale de Nerbe": 10,
+			"Plume du Timansot": 10,
+			"Substrat de Forêt": 2,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Chêne Mou": 2
+		},
+		"niveau": 148
+	},
+	{
+		"nom": "Cafra mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/65-cafra-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178069.png",
+		"Type": "Idoles",
+		"description": "Le plus proche a toujours tort. Et le tort tue.",
+		"bonus": {
+			"Bonus d'expérience": 15,
+			"Bonus de butin": 15
+		},
+		"sorts": "À chaque début de tour d'un ennemi, le personnage le plus proche de l'ennemi qui commence son tour subit 50% de dommages supplémentaires pendant 1 tour. Cumulable.",
+		"recette": {
+			"Substrat de Futaie": 2,
+			"Poupée Vaudou Sarbak": 10,
+			"Maillot de corps de Barbroussa": 10,
+			"Fleur de Blopignon": 10,
+			"Essence de Blop Royal": 2
+		},
+		"niveau": 68
+	},
+	{
+		"nom": "Corrode",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/36-corrode",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178086.png",
+		"Type": "Idoles",
+		"description": "Petit à petit, le Tofu fait son nid.",
+		"bonus": {
+			"Bonus d'expérience": 20,
+			"Bonus de butin": 20
+		},
+		"sorts": "Les adversaires appliquent 40% d'Érosion supplémentaire.",
+		"recette": {
+			"Poil de Gamino": 10,
+			"Aile de Mansobèse": 1,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Crocabulia": 2,
+			"Plume de Truchideur": 10,
+			"Substrat de Fourré": 2
+		},
+		"niveau": 127
+	},
+	{
+		"nom": "Critus",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/37-critus",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178097.png",
+		"Type": "Idoles",
+		"description": "Mieux vaut les critiques d'un seul que les coups de mille.",
+		"bonus": {
+			"Bonus d'expérience": 20,
+			"Bonus de butin": 20
+		},
+		"sorts": "Les adversaires ont 50% de chances supplémentaires d'occasionner des coups critiques.",
+		"recette": {
+			"Graine de l'Abrakleur sombre": 10,
+			"Queue de Fantomalamère": 10,
+			"Substrat de Forêt": 2,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Mansot Royal": 2,
+			"Œil de Branche Invocatrice": 1
+		},
+		"niveau": 140
+	},
+	{
+		"nom": "Dagob",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/23-dagob",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178026.png",
+		"Type": "Idoles",
+		"description": "Lorsqu'un combat correctement se déroule, c'est que le pire encore arrivé n'est pas.",
+		"bonus": {
+			"Bonus d'expérience": 25,
+			"Bonus de butin": 25
+		},
+		"sorts": "Les dommages des adversaires augmentent de 20% par tour de jeu.",
+		"recette": {
+			"Œil d'Arakmuté": 10,
+			"Substrat de Fascine": 2,
+			"Galet brasillant": 1,
+			"Aile de Dragodinde Dorée": 10,
+			"Essence de Wa Wobot": 2,
+			"Œil de Saltik": 1
+		},
+		"niveau": 85
+	},
+	{
+		"nom": "Dagob magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/25-dagob-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178028.png",
+		"Type": "Idoles",
+		"description": "Lorsqu'un combat correctement se déroule, c'est que le pire encore arrivé n'est pas.",
+		"bonus": {
+			"Bonus d'expérience": 55,
+			"Bonus de butin": 55
+		},
+		"sorts": "Les dommages des adversaires augmentent de 80% par tour de jeu.",
+		"recette": {
+			"Rutile": 4,
+			"Peau de Rouquette": 10,
+			"Coquille du Kaskargo": 1,
+			"Galet brasillant": 3,
+			"Pépite": 3000,
+			"Canine de Félygiène": 1,
+			"Essence de Kanigroula": 2,
+			"Tourmaline": 15
+		},
+		"niveau": 165
+	},
+	{
+		"nom": "Dagob majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/24-dagob-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178027.png",
+		"Type": "Idoles",
+		"description": "Lorsqu'un combat correctement se déroule, c'est que le pire encore arrivé n'est pas.",
+		"bonus": {
+			"Bonus d'expérience": 40,
+			"Bonus de butin": 40
+		},
+		"sorts": "Les dommages des adversaires augmentent de 40% par tour de jeu.",
+		"recette": {
+			"Calice de Fécorce": 10,
+			"Queue du Boufmouth légendaire": 1,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Skeunk": 2,
+			"Bec de Truchon": 1,
+			"Substrat de Fourré": 2
+		},
+		"niveau": 125
+	},
+	{
+		"nom": "Dagob mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/22-dagob-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178025.png",
+		"Type": "Idoles",
+		"description": "Lorsqu'un combat correctement se déroule, c'est que le pire encore arrivé n'est pas.",
+		"bonus": {
+			"Bonus d'expérience": 10,
+			"Bonus de butin": 10
+		},
+		"sorts": "Les dommages des adversaires augmentent de 10% par tour de jeu.",
+		"recette": {
+			"Dent de Garglyphe": 10,
+			"Viscères de Scarafeuille": 1,
+			"Cœur de Buveur": 1,
+			"Substrat de Bocage": 2,
+			"Essence de Chafer Rōnin": 2
+		},
+		"niveau": 45
+	},
+	{
+		"nom": "Djim",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/51-djim",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178101.png",
+		"Type": "Idoles",
+		"description": "Celui qui combat toujours au même endroit perd l'opportunité de gagner ailleurs.",
+		"bonus": {
+			"Bonus d'expérience": 40,
+			"Bonus de butin": 40
+		},
+		"sorts": "Les monstres sont invulnérables tant qu'ils ne sont pas déplacés. Les dommages de poussée leur font gagner 200% de dommages.",
+		"recette": {
+			"Rutile": 4,
+			"Nœud de l'Abrakleur clair": 1,
+			"Coquille de Harpirate": 1,
+			"Œil de Vigie Pirate": 1,
+			"Galet brasillant": 3,
+			"Pépite": 3000,
+			"Essence de Minotot": 2,
+			"Tourmaline": 15
+		},
+		"niveau": 161
+	},
+	{
+		"nom": "Domo",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/85-domo",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178050.png",
+		"Type": "Idoles",
+		"description": "La dispersion est généralement une mauvaise décision tactique. Rester groupés peut s'avérer pire.",
+		"bonus": {
+			"Bonus d'expérience": 15,
+			"Bonus de butin": 15
+		},
+		"sorts": "Terminer son tour à 2 cases ou moins d'un allié donne 1 PM aux ennemis.",
+		"recette": {
+			"Patte de Wabbit": 10,
+			"Feuille de Tikoko": 10,
+			"Botte trouée de Mégabwork": 10,
+			"Substrat de Bocage": 2,
+			"Essence des Forgerons": 2
+		},
+		"niveau": 57
+	},
+	{
+		"nom": "Domo magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/87-domo-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178052.png",
+		"Type": "Idoles",
+		"description": "La dispersion est généralement une mauvaise décision tactique. Rester groupés peut s'avérer pire.",
+		"bonus": {
+			"Bonus d'expérience": 35,
+			"Bonus de butin": 35
+		},
+		"sorts": "Terminer son tour à 3 cases ou moins d'un allié donne 2 PM aux ennemis.",
+		"recette": {
+			"Concombre": 10,
+			"Kriptonite": 4,
+			"Oreille percée du Fricochère": 10,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Tanukouï San": 2,
+			"Œil de Rat Masseur": 10
+		},
+		"niveau": 137
+	},
+	{
+		"nom": "Domo majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/86-domo-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178051.png",
+		"Type": "Idoles",
+		"description": "La dispersion est généralement une mauvaise décision tactique. Rester groupés peut s'avérer pire.",
+		"bonus": {
+			"Bonus d'expérience": 25,
+			"Bonus de butin": 25
+		},
+		"sorts": "Terminer son tour à 2 cases ou moins d'un allié donne 2 PM aux ennemis.",
+		"recette": {
+			"Substrat de Fascine": 2,
+			"Corne de Dragoss Calcaire": 1,
+			"Galet brasillant": 1,
+			"Échasse de Molette": 1,
+			"Corne de Rhinoféroce": 1,
+			"Essence de Dragon Cochon": 2
+		},
+		"niveau": 97
+	},
+	{
+		"nom": "Domo mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/84-domo-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178049.png",
+		"Type": "Idoles",
+		"description": "La dispersion est généralement une mauvaise décision tactique. Rester groupés peut s'avérer pire.",
+		"bonus": {
+			"Bonus d'expérience": 5,
+			"Bonus de butin": 5
+		},
+		"sorts": "Terminer son tour à 1 case ou moins d'un allié donne 1 PM aux ennemis.",
+		"recette": {
+			"Substrat de Buisson": 2,
+			"Écaille poisseuse": 10,
+			"Serviette de Plage": 10,
+			"Essence de Tournesol Affamé": 2
+		},
+		"niveau": 17
+	},
+	{
+		"nom": "Dragoche",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/56-dragoche",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178099.png",
+		"Type": "Idoles",
+		"description": "La Vengeance est un plat qui se mange froid. Mais très épicé.",
+		"bonus": {
+			"Bonus d'expérience": 35,
+			"Bonus de butin": 35
+		},
+		"sorts": "Quand un ennemi meurt, il occasionne des dommages équivalents à la moitié de ses PV totaux à son attaquant.",
+		"recette": {
+			"Souche de l'Abrakleur clair": 10,
+			"Ulna de Solfataré": 10,
+			"Galet brasillant": 3,
+			"Pépite": 3000,
+			"Essence d'Obsidiantre": 2,
+			"Cheveux d’Alhyène": 10,
+			"Tourmaline": 15,
+			"Substrat de Forêt primaire": 2
+		},
+		"niveau": 160
+	},
+	{
+		"nom": "Dynamo",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/32-dynamo",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178002.png",
+		"Type": "Idoles",
+		"description": "Rien ne sert de partir à point ; il faut courir.",
+		"bonus": {
+			"Bonus d'expérience": 25,
+			"Bonus de butin": 25
+		},
+		"sorts": "Les adversaires gagnent 2 PM.",
+		"recette": {
+			"Grelot": 1,
+			"Courroie en cuir": 1,
+			"Substrat de Bocage": 2,
+			"Mâchoire du Chafer Draugr": 10,
+			"Essence de Kankreblath": 2
+		},
+		"niveau": 41
+	},
+	{
+		"nom": "Dynamo magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/34-dynamo-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178004.png",
+		"Type": "Idoles",
+		"description": "Rien ne sert de partir à point ; il faut courir.",
+		"bonus": {
+			"Bonus d'expérience": 45,
+			"Bonus de butin": 45
+		},
+		"sorts": "Les adversaires gagnent 4 PM.",
+		"recette": {
+			"Braguette du Maître Zoth": 1,
+			"Galet brasillant": 2,
+			"Cawotte Transgénique": 10,
+			"Pépite": 2000,
+			"Essence de Skeunk": 2,
+			"Œil de Truchtine": 10,
+			"Substrat de Fourré": 2
+		},
+		"niveau": 121
+	},
+	{
+		"nom": "Dynamo majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/33-dynamo-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178003.png",
+		"Type": "Idoles",
+		"description": "Rien ne sert de partir à point ; il faut courir.",
+		"bonus": {
+			"Bonus d'expérience": 35,
+			"Bonus de butin": 35
+		},
+		"sorts": "Les adversaires gagnent 3 PM.",
+		"recette": {
+			"Bakélélite": 4,
+			"Écorce de Liroye Merline": 1,
+			"Galet brasillant": 1,
+			"Estomac de Black Wo Wabbit": 1,
+			"Laine de Dardalaine": 1,
+			"Essence de Mantiscore": 2
+		},
+		"niveau": 81
+	},
+	{
+		"nom": "Dynamo mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/31-dynamo-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178001.png",
+		"Type": "Idoles",
+		"description": "Rien ne sert de partir à point ; il faut courir.",
+		"bonus": {
+			"Bonus d'expérience": 15,
+			"Bonus de butin": 15
+		},
+		"sorts": "Les adversaires gagnent 1 PM.",
+		"recette": {
+			"Blé": 1,
+			"Bois de Frêne": 1,
+			"Fer": 1,
+			"Ortie": 1,
+			"Goujon": 1
+		},
+		"niveau": 1
+	},
+	{
+		"nom": "Horize",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/15-horize",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178062.png",
+		"Type": "Idoles",
+		"description": "Quand le sage désigne l'horizon, l'idiot regarde le doigt et le monstre mange le doigt. L'idiot survit, le sage n'a plus de doigt et le monstre est rassasié.",
+		"bonus": {
+			"Bonus d'expérience": 25,
+			"Bonus de butin": 25
+		},
+		"sorts": "Les dommages à distance des adversaires augmentent de 100%.",
+		"recette": {
+			"Collier Cassé de Macien": 1,
+			"Substrat de Futaie": 2,
+			"Racine de Tronkoblop": 10,
+			"Crâne de Wabbit Squelette": 1,
+			"Essence de Gourlo le Terrible": 2
+		},
+		"niveau": 75
+	},
+	{
+		"nom": "Horize magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/17-horize-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178064.png",
+		"Type": "Idoles",
+		"description": "Quand le sage désigne l'horizon, l'idiot regarde le doigt et le monstre mange le doigt. L'idiot survit, le sage n'a plus de doigt et le monstre est rassasié.",
+		"bonus": {
+			"Bonus d'expérience": 45,
+			"Bonus de butin": 45
+		},
+		"sorts": "Les dommages à distance des adversaires augmentent de 400%.",
+		"recette": {
+			"Tête de lance de Fangshu": 10,
+			"Tresse du Poolay": 1,
+			"Substrat de Forêt": 2,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Sphincter Cell": 2,
+			"Chaîne de Panthègros": 10
+		},
+		"niveau": 155
+	},
+	{
+		"nom": "Horize majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/16-horize-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178063.png",
+		"Type": "Idoles",
+		"description": "Quand le sage désigne l'horizon, l'idiot regarde le doigt et le monstre mange le doigt. L'idiot survit, le sage n'a plus de doigt et le monstre est rassasié.",
+		"bonus": {
+			"Bonus d'expérience": 35,
+			"Bonus de butin": 35
+		},
+		"sorts": "Les dommages à distance des adversaires augmentent de 200%.",
+		"recette": {
+			"Kouartz": 4,
+			"Aile de Draguaindrop": 10,
+			"Galet brasillant": 1,
+			"Houpette de Koalak Sanguin": 10,
+			"Houpette de Vilain Petit Tofu": 1,
+			"Essence de Rat Noir": 2
+		},
+		"niveau": 115
+	},
+	{
+		"nom": "Horize mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/14-horize-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178061.png",
+		"Type": "Idoles",
+		"description": "Quand le sage désigne l'horizon, l'idiot regarde le doigt et le monstre mange le doigt. L'idiot survit, le sage n'a plus de doigt et le monstre est rassasié.",
+		"bonus": {
+			"Bonus d'expérience": 15,
+			"Bonus de butin": 15
+		},
+		"sorts": "Les dommages à distance des adversaires augmentent de 50%.",
+		"recette": {
+			"Ivoire": 10,
+			"Tissu Sombre": 10,
+			"Substrat de Buisson": 2,
+			"Essence de Bouftou Royal": 2
+		},
+		"niveau": 35
+	},
+	{
+		"nom": "Hoskar",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/45-hoskar",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178089.png",
+		"Type": "Idoles",
+		"description": "Si l'ennemi est à portée, vous l'êtes aussi.",
+		"bonus": {
+			"Bonus d'expérience": 20,
+			"Bonus de butin": 20
+		},
+		"sorts": "Être aligné avec un ennemi/allié en fin de tour fait perdre 50% de PV pendant 2 tours.",
+		"recette": {
+			"Kriptonite": 4,
+			"Rotule du Disciple Zoth": 1,
+			"Galet brasillant": 2,
+			"Aile Atrophiée de Tofu Dodu": 1,
+			"Pépite": 2000,
+			"Essence de Blop Multicolore Royal": 2,
+			"Duvet de Truchon": 10
+		},
+		"niveau": 120
+	},
+	{
+		"nom": "Hulhu",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/58-hulhu",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178046.png",
+		"Type": "Idoles",
+		"description": "La peur fait courir le Bouftou plus vite que le Tofu.",
+		"bonus": {
+			"Bonus d'expérience": 20,
+			"Bonus de butin": 20
+		},
+		"sorts": "Quand un ennemi meurt, les ennemis gagnent 2 PM pendant 1 tour.",
+		"recette": {
+			"Substrat de Futaie": 2,
+			"Étoffe de Dok Alako": 10,
+			"Carniflore": 13,
+			"Essence de Craqueleur Légendaire": 2,
+			"Bourgeon explosif de Damadrya": 10
+		},
+		"niveau": 72
+	},
+	{
+		"nom": "Hulhu magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/60-hulhu-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178048.png",
+		"Type": "Idoles",
+		"description": "La peur fait courir le Bouftou plus vite que le Tofu.",
+		"bonus": {
+			"Bonus d'expérience": 40,
+			"Bonus de butin": 40
+		},
+		"sorts": "Quand un ennemi meurt, les ennemis gagnent 3 PM pendant 2 tours.",
+		"recette": {
+			"Kobalite": 4,
+			"Peau de Rouquette": 10,
+			"Écorce de Brouture": 1,
+			"Dent de Fantômat": 1,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Phossile": 2
+		},
+		"niveau": 152
+	},
+	{
+		"nom": "Hulhu majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/59-hulhu-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178047.png",
+		"Type": "Idoles",
+		"description": "La peur fait courir le Bouftou plus vite que le Tofu.",
+		"bonus": {
+			"Bonus d'expérience": 30,
+			"Bonus de butin": 30
+		},
+		"sorts": "Quand un ennemi meurt, les ennemis gagnent 2 PM pendant 2 tours.",
+		"recette": {
+			"Kouartz": 4,
+			"Aile du Bitouf des Plaines": 10,
+			"Galet brasillant": 1,
+			"Poils de Guerrier Koalak": 10,
+			"Essence de Rasboul Majeur": 2,
+			"Corde de Boursoin": 10
+		},
+		"niveau": 112
+	},
+	{
+		"nom": "Hulhu mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/57-hulhu-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178045.png",
+		"Type": "Idoles",
+		"description": "La peur fait courir le Bouftou plus vite que le Tofu.",
+		"bonus": {
+			"Bonus d'expérience": 10,
+			"Bonus de butin": 10
+		},
+		"sorts": "Quand un ennemi meurt, les ennemis gagnent 1 PM pendant 1 tour.",
+		"recette": {
+			"Aluminite": 4,
+			"Bougie du Mineur Sombre": 1,
+			"Oreille de Médibwork": 10,
+			"Essence de Bouftou Royal": 2
+		},
+		"niveau": 32
+	},
+	{
+		"nom": "Idole Régionale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/106-idole-regionale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178004.png",
+		"Type": "Idoles",
+		"description": "wip",
+		"bonus": {
+			"Bonus d'expérience": 100,
+			"Bonus de butin": 100
+		},
+		"niveau": 121
+	},
+	{
+		"nom": "Korria",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/54-korria",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178088.png",
+		"Type": "Idoles",
+		"description": "Là où je passe, je ne repasse pas.",
+		"bonus": {
+			"Bonus d'expérience": 20,
+			"Bonus de butin": 20
+		},
+		"sorts": "Un glyphe est posé sous les personnages en début de tour. Ce glyphe tue en fin de tour.",
+		"recette": {
+			"Coco du Bitouf aérien": 1,
+			"Galet brasillant": 3,
+			"Pépite": 3000,
+			"Essence de Kimbo": 2,
+			"Griffe de Félygiène": 10,
+			"Crinière d’Orfélin": 10,
+			"Tourmaline": 15,
+			"Substrat de Forêt primaire": 2
+		},
+		"niveau": 163
+	},
+	{
+		"nom": "Kyoub",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/98-kyoub",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178074.png",
+		"Type": "Idoles",
+		"description": "Celui qui sous-estime le facteur de ralentissement des projectiles provoqué par la pénétration dans l'air, ne passe pas l'hiver.",
+		"bonus": {
+			"Bonus d'expérience": 10,
+			"Bonus de butin": 10
+		},
+		"sorts": "Les ennemis réduisent les dommages de poison et des attaques à distance de 20%.",
+		"recette": {
+			"Poils de Wo Wabbit": 10,
+			"Magnésite": 4,
+			"Lait de Dragodinde": 10,
+			"Flamme Spectrale": 10,
+			"Essence de Blop Royal": 2
+		},
+		"niveau": 62
+	},
+	{
+		"nom": "Kyoub magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/100-kyoub-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178076.png",
+		"Type": "Idoles",
+		"description": "Celui qui sous-estime le facteur de ralentissement des projectiles provoqué par la pénétration dans l'air, ne passe pas l'hiver.",
+		"bonus": {
+			"Bonus d'expérience": 80,
+			"Bonus de butin": 80
+		},
+		"sorts": "Les ennemis réduisent les dommages de poison et des attaques à distance de 80%.",
+		"recette": {
+			"Étoffe de Kaniglou": 1,
+			"Bouée de Fantomalamère": 1,
+			"Substrat de Forêt": 2,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Founoroshi": 2,
+			"Œil de Branche Soignante": 1
+		},
+		"niveau": 142
+	},
+	{
+		"nom": "Kyoub majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/99-kyoub-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178075.png",
+		"Type": "Idoles",
+		"description": "Celui qui sous-estime le facteur de ralentissement des projectiles provoqué par la pénétration dans l'air, ne passe pas l'hiver.",
+		"bonus": {
+			"Bonus d'expérience": 20,
+			"Bonus de butin": 20
+		},
+		"sorts": "Les ennemis réduisent les dommages de poison et des attaques à distance de 40%.",
+		"recette": {
+			"Canine de Mergranlou": 10,
+			"Kouartz": 4,
+			"Coquille de Dragoss Charbon": 1,
+			"Peau de Don Duss Ang": 1,
+			"Galet brasillant": 1,
+			"Essence de Moon": 2
+		},
+		"niveau": 102
+	},
+	{
+		"nom": "Kyoub mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/97-kyoub-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178073.png",
+		"Type": "Idoles",
+		"description": "Celui qui sous-estime le facteur de ralentissement des projectiles provoqué par la pénétration dans l'air, ne passe pas l'hiver.",
+		"bonus": {
+			"Bonus d'expérience": 5,
+			"Bonus de butin": 5
+		},
+		"sorts": "Les ennemis réduisent les dommages de poison et des attaques à distance de 10%.",
+		"niveau": 22
+	},
+	{
+		"nom": "Leukide",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/46-leukide",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178092.png",
+		"Type": "Idoles",
+		"description": "Celui qui se couche avec ses ennemis se réveille avec la mort.",
+		"bonus": {
+			"Bonus d'expérience": 50,
+			"Bonus de butin": 50
+		},
+		"sorts": "Chaque attaque sur un monstre attire en ligne et en diagonale tous ses ennemis et augmente ses dommages de 20% pour 1 tour.",
+		"recette": {
+			"Roue de Tivelo": 10,
+			"Substrat de Fascine": 2,
+			"Sternum de Chachachovage": 1,
+			"Galet brasillant": 1,
+			"Pic de Dragodinde Dorée": 10,
+			"Essence de la Reine Nyée": 2
+		},
+		"niveau": 90
+	},
+	{
+		"nom": "Mérydique",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/105-merydique",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178105.png",
+		"Type": "Idoles",
+		"description": "La magie de plusieurs Mérydes et un fragment de celle de Sadida lui-même résident dans cette idole. Tout ce pouvoir a cependant tendance à s'échapper et à renforcer vos ennemis.",
+		"bonus": {
+			"Bonus d'expérience": 0,
+			"Bonus de butin": 0
+		},
+		"sorts": "Les ennemis réduisent les dommages de poison et des attaques à distance de 80%. Les ennemis qui meurent occasionnent 100% de leurs PV en dommages en cercle inversé de taille 4. Les adversaires tuent les ennemis situés sur les cases adjacentes lorsqu'ils meurent.",
+		"niveau": 180
+	},
+	{
+		"nom": "Muta",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/43-muta",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178093.png",
+		"Type": "Idoles",
+		"description": "Garde tes amis près de toi et tes ennemis encore plus près.",
+		"bonus": {
+			"Bonus d'expérience": 30,
+			"Bonus de butin": 30
+		},
+		"sorts": "Ne pas être sur une case adjacente à celle d’un ennemi en fin de tour fait perdre 50% de PV.",
+		"recette": {
+			"Magnésite": 4,
+			"Aile de Dragodinde": 10,
+			"Poil de Rat d'Égoutant": 10,
+			"Fleur de Gloutoblop": 10,
+			"Essence de Kanniboul Ebil": 2
+		},
+		"niveau": 60
+	},
+	{
+		"nom": "Nahuatl",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/88-nahuatl",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178103.png",
+		"Type": "Idoles",
+		"description": "Ce qui est déjà mort peut encore être tué.",
+		"bonus": {
+			"Bonus d'expérience": 50,
+			"Bonus de butin": 50
+		},
+		"sorts": "Quand un ennemi meurt, il est automatiquement ressuscité par le prochain ennemi par ordre d'initiative, au début de son tour.",
+		"recette": {
+			"Patte de Soryo Givrefoux": 1,
+			"Péroné du Marôdeur": 10,
+			"Oreille d'Apériglours": 10,
+			"Galet brasillant": 3,
+			"Pépite": 3000,
+			"Essence de Korriandre": 2,
+			"Tourmaline": 15,
+			"Substrat de Forêt vierge": 2
+		},
+		"niveau": 180
+	},
+	{
+		"nom": "Nékinéko",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/30-nekineko",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178087.png",
+		"Type": "Idoles",
+		"description": "Tout peut cuire à point pour qui sait attendre.",
+		"bonus": {
+			"Bonus d'expérience": 40,
+			"Bonus de butin": 40
+		},
+		"sorts": "Les adversaires gagnent 1 PM à chaque fois qu'ils sont touchés.",
+		"recette": {
+			"Peau de Mandrine": 10,
+			"Coco du Bitouf des Plaines": 1,
+			"Galet brasillant": 1,
+			"Substrat de Bosquet": 2,
+			"Antenne de Trésantène": 10,
+			"Essence du Capitaine Ekarlatte": 2
+		},
+		"niveau": 110
+	},
+	{
+		"nom": "Nyan",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/44-nyan",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178098.png",
+		"Type": "Idoles",
+		"description": "S'enfuir en reculant, c'est foncer pour se rapprocher d'un ennemi qui s'éloigne. Mais à l'envers.",
+		"bonus": {
+			"Bonus d'expérience": 10,
+			"Bonus de butin": 10
+		},
+		"sorts": "Rester sur la même case en fin de tour fait perdre 50% de PV pendant 2 tours.",
+		"recette": {
+			"Queue du Mulou": 10,
+			"Kouartz": 4,
+			"Corne du Boufcoul": 10,
+			"Coquille de Dragoss Protéiforme": 1,
+			"Galet brasillant": 1,
+			"Essence de Malléfisk": 2
+		},
+		"niveau": 100
+	},
+	{
+		"nom": "Nyoro",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/4-nyoro",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178034.png",
+		"Type": "Idoles",
+		"description": "L'arroseur arrosé a rossé et rossera.",
+		"bonus": {
+			"Bonus d'expérience": 30,
+			"Bonus de butin": 30
+		},
+		"sorts": "Les adversaires renvoient 25% des dommages subis.",
+		"recette": {
+			"Ebonite": 4,
+			"Oreilles de Croc Gland": 10,
+			"Patte de Tofukaz": 10,
+			"Casque du Chafer Primitif": 10,
+			"Essence de Scarabosse Doré": 2
+		},
+		"niveau": 46
+	},
+	{
+		"nom": "Nyoro magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/8-nyoro-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178036.png",
+		"Type": "Idoles",
+		"description": "L'arroseur arrosé a rossé et rossera.",
+		"bonus": {
+			"Bonus d'expérience": 60,
+			"Bonus de butin": 60
+		},
+		"sorts": "Les adversaires renvoient 100% des dommages subis.",
+		"recette": {
+			"Kriptonite": 4,
+			"Plume du Serpiplume": 10,
+			"Galet brasillant": 2,
+			"Boulier Zoth": 10,
+			"Pépite": 2000,
+			"Essence de Tofu Royal": 2,
+			"Glandes de Truchtine": 1
+		},
+		"niveau": 126
+	},
+	{
+		"nom": "Nyoro majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/7-nyoro-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178035.png",
+		"Type": "Idoles",
+		"description": "L'arroseur arrosé a rossé et rossera.",
+		"bonus": {
+			"Bonus d'expérience": 45,
+			"Bonus de butin": 45
+		},
+		"sorts": "Les adversaires renvoient 50% des dommages subis.",
+		"recette": {
+			"Poils de Black Tiwabbit": 10,
+			"Bakélélite": 4,
+			"Fleur de Blopignon": 10,
+			"Galet brasillant": 1,
+			"Dent de Larve Émeraude": 10,
+			"Essence de Wa Wobot": 2
+		},
+		"niveau": 86
+	},
+	{
+		"nom": "Nyoro mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/6-nyoro-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178033.png",
+		"Type": "Idoles",
+		"description": "L'arroseur arrosé a rossé et rossera.",
+		"bonus": {
+			"Bonus d'expérience": 15,
+			"Bonus de butin": 15
+		},
+		"sorts": "Les adversaires renvoient 10% des dommages subis.",
+		"recette": {
+			"Œuf de Tofu": 10,
+			"Sporme du Champ Champ": 10,
+			"Essence de Mob l'Éponge": 2,
+			"Ferrite": 4
+		},
+		"niveau": 6
+	},
+	{
+		"nom": "Orgnobi",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/53-orgnobi",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178095.png",
+		"Type": "Idoles",
+		"description": "C'est toi qui cogne le bar, mais parfois, c’est lui qui te cogne.",
+		"bonus": {
+			"Bonus d'expérience": 25,
+			"Bonus de butin": 25
+		},
+		"sorts": "Les dommages de poussés subis sont augmentés de 400%. Les adversaires repoussent leurs cibles lorsqu'ils occasionnent des dommages.",
+		"recette": {
+			"Mât de Fantômat": 10,
+			"Galet brasillant": 3,
+			"Caleçon Blanc": 1,
+			"Pépite": 3000,
+			"Œil de Phozami": 10,
+			"Tourmaline": 15,
+			"Essence de XLII": 2,
+			"Substrat de Forêt primaire": 2
+		},
+		"niveau": 174
+	},
+	{
+		"nom": "Ougah",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/42-ougah",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178094.png",
+		"Type": "Idoles",
+		"description": "Le pieu est l'ennemi du bien.",
+		"bonus": {
+			"Bonus d'expérience": 15,
+			"Bonus de butin": 15
+		},
+		"sorts": "Rester sur une case adjacente à celle d’un ennemi en fin de tour fait perdre 50% de PV.",
+		"recette": {
+			"Ebonite": 4,
+			"Tronc de Kokoko": 10,
+			"Lait de Tortue": 1,
+			"Casque Cassé du Chafer": 1,
+			"Essence de Kwakwa": 2
+		},
+		"niveau": 50
+	},
+	{
+		"nom": "Pého",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/95-peho",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178010.png",
+		"Type": "Idoles",
+		"description": "Il existe toujours quelque chose pour rapprocher ceux que tout sépare.",
+		"bonus": {
+			"Bonus d'expérience": 25,
+			"Bonus de butin": 25
+		},
+		"sorts": "À la fin de leur tour, les ennemis attirent tous les alliés situés à plus de 6 PO de 1 case.",
+		"recette": {
+			"Oreille du Grand Pa Wabbit": 10,
+			"Substrat de Futaie": 2,
+			"Poupée Vaudou Ark": 10,
+			"Peau de Ramane d'Égoutant": 10,
+			"Essence de Gelée Royale": 2
+		},
+		"niveau": 63
+	},
+	{
+		"nom": "Pého magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/96-peho-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178012.png",
+		"Type": "Idoles",
+		"description": "Il existe toujours quelque chose pour rapprocher ceux que tout sépare.",
+		"bonus": {
+			"Bonus d'expérience": 55,
+			"Bonus de butin": 55
+		},
+		"sorts": "À la fin de leur tour, les ennemis attirent tous les alliés situés à plus de 4 PO de 2 cases.",
+		"recette": {
+			"Kobalite": 4,
+			"Écorce de Floribonde": 1,
+			"Corde du Fancrôme": 1,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Chêne Mou": 2,
+			"Patte de Gruche": 10
+		},
+		"niveau": 143
+	},
+	{
+		"nom": "Pého majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/94-peho-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178011.png",
+		"Type": "Idoles",
+		"description": "Il existe toujours quelque chose pour rapprocher ceux que tout sépare.",
+		"bonus": {
+			"Bonus d'expérience": 40,
+			"Bonus de butin": 40
+		},
+		"sorts": "À la fin de leur tour, les ennemis attirent tous les alliés situés à plus de 4 PO de 1 case.",
+		"recette": {
+			"Coquille de Dragoss Ardoise": 1,
+			"Galet brasillant": 1,
+			"Substrat de Bosquet": 2,
+			"Plume de Gobvious": 10,
+			"Essence de Dramak": 2,
+			"Corne de Berserkoffre": 10
+		},
+		"niveau": 103
+	},
+	{
+		"nom": "Pého mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/93-peho-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178009.png",
+		"Type": "Idoles",
+		"description": "Il existe toujours quelque chose pour rapprocher ceux que tout sépare.",
+		"bonus": {
+			"Bonus d'expérience": 10,
+			"Bonus de butin": 10
+		},
+		"sorts": "À la fin de leur tour, les ennemis attirent tous les alliés situés à plus de 8 PO de 1 case.",
+		"recette": {
+			"Substrat de Buisson": 2,
+			"Feuille de Tournesol Sauvage": 2,
+			"Pétale Magique du Tournesol Affamé": 1,
+			"Essence de Tournesol Affamé": 2
+		},
+		"niveau": 23
+	},
+	{
+		"nom": "Pénitent",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/35-penitent",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178104.png",
+		"Type": "Idoles",
+		"description": "Seul le pénitent pourra le passer.",
+		"bonus": {
+			"Bonus d'expérience": 15,
+			"Bonus de butin": 15
+		},
+		"sorts": "Il est impossible de voler de la vie aux adversaires ou de se soigner.",
+		"recette": {
+			"Kriptonite": 4,
+			"Carpelle de Brouture": 10,
+			"Poil de Smilomouth": 10,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Royalmouth": 2,
+			"Croupion de Truchmuche": 10
+		},
+		"niveau": 123
+	},
+	{
+		"nom": "Pétunia",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/72-petunia",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178083.png",
+		"Type": "Idoles",
+		"description": "Plus on est de souffre-douleurs, plus on subit.",
+		"bonus": {
+			"Bonus d'expérience": 15,
+			"Bonus de butin": 15
+		},
+		"sorts": "Quand un allié subit des dommages, ses alliés situés à deux cases ou moins subissent 100% de ces dommages.",
+		"recette": {
+			"Ebonite": 4,
+			"Slip de Bwork Archer": 10,
+			"Étoffe de Ouassingue": 10,
+			"Moustaches de Tiwabbit": 10,
+			"Essence de Corailleur Magistral": 2
+		},
+		"niveau": 53
+	},
+	{
+		"nom": "Pétunia magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/74-petunia-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178082.png",
+		"Type": "Idoles",
+		"description": "Plus on est de souffre-douleurs, plus on subit.",
+		"bonus": {
+			"Bonus d'expérience": 35,
+			"Bonus de butin": 35
+		},
+		"sorts": "Quand un allié subit des dommages, ses alliés situés à quatre cases ou moins subissent 200% de ces dommages.",
+		"recette": {
+			"Bractée de Chiendent": 10,
+			"Graine de l'Abrakleur sombre": 10,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Tanukouï San": 2,
+			"Sacoche de Kartouche": 10,
+			"Substrat de Fourré": 2
+		},
+		"niveau": 133
+	},
+	{
+		"nom": "Pétunia majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/73-petunia-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178084.png",
+		"Type": "Idoles",
+		"description": "Plus on est de souffre-douleurs, plus on subit.",
+		"bonus": {
+			"Bonus d'expérience": 25,
+			"Bonus de butin": 25
+		},
+		"sorts": "Quand un allié subit des dommages, ses alliés situés à deux cases ou moins subissent 200% de ces dommages.",
+		"recette": {
+			"Substrat de Fascine": 2,
+			"Galet brasillant": 1,
+			"Oreille de Bouledogre": 1,
+			"Plume de Gobvious": 10,
+			"Soie Baveuse": 10,
+			"Essence de la Reine Nyée": 2
+		},
+		"niveau": 93
+	},
+	{
+		"nom": "Pétunia mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/71-petunia-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178081.png",
+		"Type": "Idoles",
+		"description": "Plus on est de souffre-douleurs, plus on subit.",
+		"bonus": {
+			"Bonus d'expérience": 5,
+			"Bonus de butin": 5
+		},
+		"sorts": "Quand un allié subit des dommages, ses alliés situés à deux cases ou moins subissent 50% de ces dommages.",
+		"recette": {
+			"Graine de Pavot": 10,
+			"Épine du Champ Champ": 10,
+			"Essence de Mob l'Éponge": 2,
+			"Ferrite": 4
+		},
+		"niveau": 13
+	},
+	{
+		"nom": "Pikmi",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/90-pikmi",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178042.png",
+		"Type": "Idoles",
+		"description": "On ne fait pas d'omelette sans casser d'œufs.",
+		"bonus": {
+			"Bonus d'expérience": 20,
+			"Bonus de butin": 20
+		},
+		"sorts": "Quand un ennemi est attaqué, 100% des dommages sont occasionnés aux alliés autour de l'attaquant dans une zone de 3 cases.",
+		"recette": {
+			"Étoffe du Wabbit": 1,
+			"Magnésite": 4,
+			"Racine d'Abraknyde Sombre": 10,
+			"Os de Wabbit Squelette": 10,
+			"Essence de Craqueleur Légendaire": 2
+		},
+		"niveau": 77
+	},
+	{
+		"nom": "Pikmi magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/92-pikmi-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178044.png",
+		"Type": "Idoles",
+		"description": "On ne fait pas d'omelette sans casser d'œufs.",
+		"bonus": {
+			"Bonus d'expérience": 40,
+			"Bonus de butin": 40
+		},
+		"sorts": "Quand un ennemi est attaqué, 200% des dommages sont occasionnés aux alliés autour de l'attaquant dans une zone de 4 cases.",
+		"recette": {
+			"Kobalite": 4,
+			"Écaille de Harpirate": 10,
+			"Étoffe de Vigie Pirate": 10,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Ben le Ripate": 2,
+			"Tignasse de Kanihilan": 10
+		},
+		"niveau": 157
+	},
+	{
+		"nom": "Pikmi majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/91-pikmi-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178043.png",
+		"Type": "Idoles",
+		"description": "On ne fait pas d'omelette sans casser d'œufs.",
+		"bonus": {
+			"Bonus d'expérience": 30,
+			"Bonus de butin": 30
+		},
+		"sorts": "Quand un ennemi est attaqué, 200% des dommages sont occasionnés aux alliés autour de l'attaquant dans une zone de 3 cases.",
+		"recette": {
+			"Carapace de Scaratos": 10,
+			"Croc de Dragoeuf Protecteur": 1,
+			"Étoffe Zoth": 10,
+			"Galet brasillant": 1,
+			"Substrat de Bosquet": 2,
+			"Essence de Rat Blanc": 2
+		},
+		"niveau": 117
+	},
+	{
+		"nom": "Pikmi mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/89-pikmi-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178041.png",
+		"Type": "Idoles",
+		"description": "On ne fait pas d'omelette sans casser d'œufs.",
+		"bonus": {
+			"Bonus d'expérience": 10,
+			"Bonus de butin": 10
+		},
+		"sorts": "Quand un ennemi est attaqué, 50% des dommages sont occasionnés aux alliés autour de l'attaquant dans une zone de 2 cases.",
+		"recette": {
+			"Aluminite": 4,
+			"Colonne Vertébrale": 10,
+			"Mâchoire de Rib": 10,
+			"Essence de Bouftou Royal": 2
+		},
+		"niveau": 37
+	},
+	{
+		"nom": "Proxima",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/9-proxima",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178085.png",
+		"Type": "Idoles",
+		"description": "Ceux qui partent emmènent toujours quelque chose avec eux.",
+		"bonus": {
+			"Bonus d'expérience": 15,
+			"Bonus de butin": 15
+		},
+		"sorts": "Les adversaires tuent les ennemis situés sur les cases adjacentes lorsqu'ils meurent.",
+		"recette": {
+			"Bougie du Mineur Sombre": 1,
+			"Touffe de Cheveux Blancs": 1,
+			"Substrat de Buisson": 2,
+			"Essence de Bouftou Royal": 2
+		},
+		"niveau": 30
+	},
+	{
+		"nom": "Rapa",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/76-rapa",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178018.png",
+		"Type": "Idoles",
+		"description": "Affaiblissez vos ennemis et vous galvaniserez leurs alliés. Affaiblissez vos alliés et vous galvaniserez vos ennemis. La fuite reste une solution optimale à ce problème.",
+		"bonus": {
+			"Bonus d'expérience": 25,
+			"Bonus de butin": 25
+		},
+		"sorts": "Quand un ennemi subit des dommages, ses alliés situés à 2 cases sont soignés de 100% de ces dommages.",
+		"recette": {
+			"Plume de fesse du Kido": 10,
+			"Galet brasillant": 1,
+			"Substrat de Bosquet": 2,
+			"Élastique de Gobvious": 1,
+			"Essence de Dragon Cochon": 2,
+			"Moustache précieuse": 10
+		},
+		"niveau": 106
+	},
+	{
+		"nom": "Rapa magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/78-rapa-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178020.png",
+		"Type": "Idoles",
+		"description": "Affaiblissez vos ennemis et vous galvaniserez leurs alliés. Affaiblissez vos alliés et vous galvaniserez vos ennemis. La fuite reste une solution optimale à ce problème.",
+		"bonus": {
+			"Bonus d'expérience": 55,
+			"Bonus de butin": 55
+		},
+		"sorts": "Quand un ennemi subit des dommages, ses alliés situés à 4 cases sont soignés de 200% de ces dommages.",
+		"recette": {
+			"Bave de Champ à Gnons": 3,
+			"Peau d'Ouilleur": 10,
+			"Malléole de Yomi Givrefoux": 10,
+			"Galet brasillant": 3,
+			"Pépite": 3000,
+			"Essence de Bworker": 2,
+			"Tourmaline": 15,
+			"Substrat de Forêt vierge": 2
+		},
+		"niveau": 186
+	},
+	{
+		"nom": "Rapa majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/77-rapa-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178019.png",
+		"Type": "Idoles",
+		"description": "Affaiblissez vos ennemis et vous galvaniserez leurs alliés. Affaiblissez vos alliés et vous galvaniserez vos ennemis. La fuite reste une solution optimale à ce problème.",
+		"bonus": {
+			"Bonus d'expérience": 40,
+			"Bonus de butin": 40
+		},
+		"sorts": "Quand un ennemi subit des dommages, ses alliés situés à 2 cases sont soignés de 200% de ces dommages.",
+		"recette": {
+			"Kobalite": 4,
+			"Peau de Maître Koalak": 10,
+			"Écorce de Nerbe": 1,
+			"Peau de Mansobèse": 10,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Tynril": 2
+		},
+		"niveau": 146
+	},
+	{
+		"nom": "Rapa mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/75-rapa-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178017.png",
+		"Type": "Idoles",
+		"description": "Affaiblissez vos ennemis et vous galvaniserez leurs alliés. Affaiblissez vos alliés et vous galvaniserez vos ennemis. La fuite reste une solution optimale à ce problème.",
+		"bonus": {
+			"Bonus d'expérience": 10,
+			"Bonus de butin": 10
+		},
+		"sorts": "Quand un ennemi subit des dommages, ses alliés situés à 2 cases sont soignés de 50% de ces dommages.",
+		"recette": {
+			"Estomac de Wo Wabbit": 1,
+			"Magnésite": 4,
+			"Linceul": 1,
+			"Poupée Vaudou Eth": 10,
+			"Essence de Wa Wabbit": 2
+		},
+		"niveau": 66
+	},
+	{
+		"nom": "Sak",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/27-sak",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178038.png",
+		"Type": "Idoles",
+		"description": "Ce qui ne vous mange pas vous rend plus fort.",
+		"bonus": {
+			"Bonus d'expérience": 25,
+			"Bonus de butin": 25
+		},
+		"sorts": "Les dommages des adversaires augmentent de 200% et baissent de 20% par tour de jeu.",
+		"recette": {
+			"Bakélélite": 4,
+			"Laine du Boufcoul": 10,
+			"Étoffe de Rat Bougri": 10,
+			"Galet brasillant": 1,
+			"Dent de Molette": 10,
+			"Essence d'Abraknyde Ancestral": 2
+		},
+		"niveau": 96
+	},
+	{
+		"nom": "Sak magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/29-sak-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178040.png",
+		"Type": "Idoles",
+		"description": "Ce qui ne vous mange pas vous rend plus fort.",
+		"bonus": {
+			"Bonus d'expérience": 45,
+			"Bonus de butin": 45
+		},
+		"sorts": "Les dommages des adversaires augmentent de 800% et baissent de 80% par tour de jeu.",
+		"recette": {
+			"Pyrute": 4,
+			"Écorce d'Abrazif": 10,
+			"Queue de Wolvero": 10,
+			"Galet brasillant": 3,
+			"Caleçon Bleu": 1,
+			"Pépite": 3000,
+			"Essence d'Ougah": 2,
+			"Tourmaline": 15
+		},
+		"niveau": 176
+	},
+	{
+		"nom": "Sak majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/28-sak-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178039.png",
+		"Type": "Idoles",
+		"description": "Ce qui ne vous mange pas vous rend plus fort.",
+		"bonus": {
+			"Bonus d'expérience": 35,
+			"Bonus de butin": 35
+		},
+		"sorts": "Les dommages des adversaires augmentent de 400% et baissent de 40% par tour de jeu.",
+		"recette": {
+			"Poils de Boumbardier": 10,
+			"Galet brasillant": 2,
+			"Bourgeon d'Abraknyde Sombre Irascible": 10,
+			"Pépite": 2000,
+			"Essence de Haute Truche": 2,
+			"Slip d'Elsoummo": 10,
+			"Substrat de Fourré": 2
+		},
+		"niveau": 136
+	},
+	{
+		"nom": "Sak mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/26-sak-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178037.png",
+		"Type": "Idoles",
+		"description": "Ce qui ne vous mange pas vous rend plus fort.",
+		"bonus": {
+			"Bonus d'expérience": 15,
+			"Bonus de butin": 15
+		},
+		"sorts": "Les dommages des adversaires augmentent de 100% et baissent de 10% par tour de jeu.",
+		"recette": {
+			"Ebonite": 4,
+			"Dent de Crocodaille": 10,
+			"Fragment d'Os": 1,
+			"Chaînes Brisées": 10,
+			"Essence de Bworkette": 2
+		},
+		"niveau": 56
+	},
+	{
+		"nom": "Subite",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/55-subite",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178091.png",
+		"Type": "Idoles",
+		"description": "Mort ou vif, vide ou plein, il n'y a pas de compromis possible.",
+		"bonus": {
+			"Bonus d'expérience": 75,
+			"Bonus de butin": 75
+		},
+		"sorts": "Les personnages meurent s'ils subissent des dommages directs.",
+		"recette": {
+			"Rutile": 4,
+			"Galet brasillant": 3,
+			"Pépite": 3000,
+			"Essence de Tengu Givrefoux": 2,
+			"Étoffe Mystérieuse": 3,
+			"Queue de Mère Veilleuse": 10,
+			"Tourmaline": 15,
+			"Pagne de Trantroa": 10
+		},
+		"niveau": 170
+	},
+	{
+		"nom": "Teleb",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/81-teleb",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178022.png",
+		"Type": "Idoles",
+		"description": "Garde tes amis loin de toi et tes ennemis plus loin encore.",
+		"bonus": {
+			"Bonus d'expérience": 20,
+			"Bonus de butin": 20
+		},
+		"sorts": "À la fin de leur tour, les ennemis appliquent une augmentation des dommages subis aux alliés à moins de 4 cases de 50%.",
+		"recette": {
+			"Bakélélite": 4,
+			"Bracelet de Force de Trooll": 1,
+			"Galet brasillant": 1,
+			"Casque de Wobot": 1,
+			"Essence d'Abraknyde Ancestral": 2,
+			"Racine d'Abraknyde Vénérable": 10
+		},
+		"niveau": 91
+	},
+	{
+		"nom": "Teleb magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/101-teleb-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178024.png",
+		"Type": "Idoles",
+		"description": "Garde tes amis loin de toi et tes ennemis plus loin encore.",
+		"bonus": {
+			"Bonus d'expérience": 40,
+			"Bonus de butin": 40
+		},
+		"sorts": "À la fin de leur tour, les ennemis appliquent une augmentation des dommages subis aux alliés à moins de 6 cases de 100%.",
+		"recette": {
+			"Rutile": 4,
+			"Langue du Champodonte": 3,
+			"Galet brasillant": 3,
+			"Furoncle de la Mama Bwork": 10,
+			"Caleçon de Cybwork": 1,
+			"Pépite": 3000,
+			"Essence de Tengu Givrefoux": 2,
+			"Tourmaline": 15
+		},
+		"niveau": 171
+	},
+	{
+		"nom": "Teleb majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/82-teleb-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178023.png",
+		"Type": "Idoles",
+		"description": "Garde tes amis loin de toi et tes ennemis plus loin encore.",
+		"bonus": {
+			"Bonus d'expérience": 30,
+			"Bonus de butin": 30
+		},
+		"sorts": "À la fin de leur tour, les ennemis appliquent une augmentation des dommages subis aux alliés à moins de 4 cases de 100%.",
+		"recette": {
+			"Kriptonite": 4,
+			"Queue du Fu Mansot": 10,
+			"Œil torve de Fricochère": 1,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Essence de Haute Truche": 2,
+			"Bandelette de Tromblion": 10
+		},
+		"niveau": 131
+	},
+	{
+		"nom": "Teleb mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/80-teleb-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178021.png",
+		"Type": "Idoles",
+		"description": "Garde tes amis loin de toi et tes ennemis plus loin encore.",
+		"bonus": {
+			"Bonus d'expérience": 10,
+			"Bonus de butin": 10
+		},
+		"sorts": "À la fin de leur tour, les ennemis appliquent une augmentation des dommages subis aux alliés à moins de 4 cases de 25%.",
+		"recette": {
+			"Oreilles du Tiwabbit": 10,
+			"Poils de Barbe du Bwork Mage": 10,
+			"Coccyx du Corailleur": 10,
+			"Substrat de Bocage": 2,
+			"Essence de Shin Larve": 2
+		},
+		"niveau": 51
+	},
+	{
+		"nom": "Ultram",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/79-ultram",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178100.png",
+		"Type": "Idoles",
+		"description": "Pour la première fois, tous vos ennemis souhaiteront prendre votre place.",
+		"bonus": {
+			"Bonus d'expérience": 25,
+			"Bonus de butin": 25
+		},
+		"sorts": "Les alliés posent un glyphe au début de leur tour pour une durée infinie, si les ennemis commencent ou terminent leur tour dessus ils deviennent invulnérables.",
+		"recette": {
+			"Arête géante du Shamansot": 1,
+			"Galet brasillant": 2,
+			"Calumet Zoth": 10,
+			"Pépite": 2000,
+			"Morpion de Truchideur": 1,
+			"Essence de Fraktale": 2,
+			"Substrat de Fourré": 2
+		},
+		"niveau": 130
+	},
+	{
+		"nom": "Vaude",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/70-vaude",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178090.png",
+		"Type": "Idoles",
+		"description": "Si un de vos alliés est aligné avec vous, il est déjà mort, mais il ne le sait pas encore.",
+		"bonus": {
+			"Bonus d'expérience": 20,
+			"Bonus de butin": 20
+		},
+		"sorts": "À chaque fin de tour d'un allié, les alliés en ligne avec l'allié qui termine son tour subissent des dommages équivalents à 50% de leurs PV.",
+		"recette": {
+			"Magnésite": 4,
+			"Babines de Macien": 10,
+			"Poupée Vaudou Sarbak": 10,
+			"Chicot du Flib": 10,
+			"Essence de Gourlo le Terrible": 2
+		},
+		"niveau": 70
+	},
+	{
+		"nom": "Yoche",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/62-yoche",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178030.png",
+		"Type": "Idoles",
+		"description": "Loin des yeux, flèche dans le cœur.",
+		"bonus": {
+			"Bonus d'expérience": 25,
+			"Bonus de butin": 25
+		},
+		"sorts": "Attaquer un ennemi à distance augmente ses dommages de 20%. Cumulable 4 fois.",
+		"recette": {
+			"Bandeau du Black Tiwabbit": 10,
+			"Poils de Barbe du Grand Pa Wabbit": 10,
+			"Substrat de Bocage": 2,
+			"Relique Familiale": 10,
+			"Essence de Shin Larve": 2
+		},
+		"niveau": 55
+	},
+	{
+		"nom": "Yoche magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/64-yoche-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178032.png",
+		"Type": "Idoles",
+		"description": "Loin des yeux, flèche dans le cœur.",
+		"bonus": {
+			"Bonus d'expérience": 50,
+			"Bonus de butin": 50
+		},
+		"sorts": "Attaquer un ennemi à distance augmente ses dommages de 80%. Cumulable 2 fois.",
+		"recette": {
+			"Kriptonite": 4,
+			"Étoffe de Kurookin": 10,
+			"Coco du Bitouf Sombre": 1,
+			"Galet brasillant": 2,
+			"Pépite": 2000,
+			"Foulard de Milimaître": 10,
+			"Essence de Fraktale": 2
+		},
+		"niveau": 135
+	},
+	{
+		"nom": "Yoche majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/63-yoche-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178031.png",
+		"Type": "Idoles",
+		"description": "Loin des yeux, flèche dans le cœur.",
+		"bonus": {
+			"Bonus d'expérience": 40,
+			"Bonus de butin": 40
+		},
+		"sorts": "Attaquer un ennemi à distance augmente ses dommages de 40%. Cumulable 3 fois.",
+		"recette": {
+			"Bakélélite": 4,
+			"Peau de Drakoalak": 10,
+			"Os de Mama Koalak": 1,
+			"Peau de Cochon de Farle": 10,
+			"Galet brasillant": 1,
+			"Essence de la Reine Nyée": 2
+		},
+		"niveau": 95
+	},
+	{
+		"nom": "Yoche mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/61-yoche-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178029.png",
+		"Type": "Idoles",
+		"description": "Loin des yeux, flèche dans le cœur.",
+		"bonus": {
+			"Bonus d'expérience": 10,
+			"Bonus de butin": 10
+		},
+		"sorts": "Attaquer un ennemi à distance augmente ses dommages de 10%. Cumulable 5 fois.",
+		"recette": {
+			"Substrat de Buisson": 2,
+			"Noeul Mort": 1,
+			"Paupière d'Étoile": 10,
+			"Essence de Mob l'Éponge": 2
+		},
+		"niveau": 15
+	},
+	{
+		"nom": "Zaihn",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/48-zaihn",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178066.png",
+		"Type": "Idoles",
+		"description": "L'œil du cyclone est moins dangereux que la massue du cyclope.",
+		"bonus": {
+			"Bonus d'expérience": 20,
+			"Bonus de butin": 20
+		},
+		"sorts": "Les ennemis qui meurent occasionnent 50% de leurs PV en dommages en cercle inversé de taille 6.",
+		"recette": {
+			"Œil de Cocholou": 10,
+			"Coquille de Dragoss Argile": 1,
+			"Galet brasillant": 1,
+			"Substrat de Bosquet": 2,
+			"Dent de Bourbassingue": 10,
+			"Essence du Meulou": 2
+		},
+		"niveau": 101
+	},
+	{
+		"nom": "Zaihn magistrale",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/50-zaihn-magistrale",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178068.png",
+		"Type": "Idoles",
+		"description": "L'œil du cyclone est moins dangereux que la massue du cyclope.",
+		"bonus": {
+			"Bonus d'expérience": 50,
+			"Bonus de butin": 50
+		},
+		"sorts": "Les ennemis qui meurent occasionnent 100% de leurs PV en dommages en cercle inversé de taille 4.",
+		"recette": {
+			"Pyrute": 4,
+			"Oreille de Soryo Givrefoux": 10,
+			"Radius d'Ouilleur": 1,
+			"Lamelle de Mérulette": 10,
+			"Galet brasillant": 3,
+			"Pépite": 3000,
+			"Essence de Kralamoure Géant": 2,
+			"Tourmaline": 15
+		},
+		"niveau": 181
+	},
+	{
+		"nom": "Zaihn majeure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/49-zaihn-majeure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178067.png",
+		"Type": "Idoles",
+		"description": "L'œil du cyclone est moins dangereux que la massue du cyclope.",
+		"bonus": {
+			"Bonus d'expérience": 35,
+			"Bonus de butin": 35
+		},
+		"sorts": "Les ennemis qui meurent occasionnent 100% de leurs PV en dommages en cercle inversé de taille 6.",
+		"niveau": 141
+	},
+	{
+		"nom": "Zaihn mineure",
+		"url": "https://www.dofus.com/fr/mmorpg/encyclopedie/idoles/47-zaihn-mineure",
+		"illustration_url": "https://api.dofusdb.fr/img/items/178065.png",
+		"Type": "Idoles",
+		"description": "L'œil du cyclone est moins dangereux que la massue du cyclope.",
+		"bonus": {
+			"Bonus d'expérience": 5,
+			"Bonus de butin": 5
+		},
+		"sorts": "Les ennemis qui meurent occasionnent 25% de leurs PV en dommages en cercle inversé de taille 6.",
+		"recette": {
+			"Dent de Dragodinde": 10,
+			"Étoffe de Croc Gland": 1,
+			"Substrat de Futaie": 2,
+			"Foulard du Sparo": 10,
+			"Essence de Wa Wabbit": 2
+		},
+		"niveau": 61
+	}
+]
