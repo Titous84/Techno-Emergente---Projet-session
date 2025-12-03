@@ -71,13 +71,6 @@ Les images proviennent de :
 - https://api.dofusdb.fr/img/items/
 - https://dofusdb.fr/icons/effects/
 
-🔄 À venir (TODO)
-- 🔍 Recherche d’équipements
-- 📦 Filtrer par type d’équipement (anneau, amulette, etc.)
-- 🧮 Affichage des bonus de panoplie
-- 🎨 Amélioration du style CSS
-- 🌐 Déploiement en ligne (ex: Vercel, Netlify)
-
 🙋‍♂️ Auteur
 - 👤 Titous84
 - GitHub : github.com/Titous84
